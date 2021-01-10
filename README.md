@@ -4,4 +4,4 @@ Put a little blurb here about yourself!
 
 ## Assignments
 
-- [Assignment 1 Example](./Assignments/first.md)
+- [Assignment 1 Example](./Assignments/example.md)
